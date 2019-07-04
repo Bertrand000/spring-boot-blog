@@ -1,3 +1,4 @@
+power by：https://github.com/hyrijk/spring-boot-blog 方便本地调试上传
 Spring Boot step by step
 
 1. [使用 idea 新建 Spring Boot 项目](http://www.jianshu.com/p/45ba074dbc81)
